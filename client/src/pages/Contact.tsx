@@ -35,7 +35,7 @@ export default function Contact() {
         alert("Thank for your message! I will get back to you soon.");
         setFormState({ name: "", email: "", message: "" });
       })
-      .catch((error) => {
+      .catch((error: unknown) => {
         console.error("EmailJS error:", error);
         alert("Something went wrong. Please try again.");
       });
