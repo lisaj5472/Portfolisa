@@ -1,0 +1,7 @@
+[build]
+  command = "npm run build"
+  publish = "client/dist"
+
+[build.environment]
+  NODE_ENV = "development"
+  NODE_VERSION = "18"
