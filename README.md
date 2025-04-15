@@ -1,8 +1,13 @@
 # Lisa Jorgensen | Developer Portfolio
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://portfolisa.netlify.app)
+![GitHub last commit](https://img.shields.io/github/last-commit/lisaj5472/portfolisa)
+![Tech Stack](https://img.shields.io/badge/React-TypeScript-blue?logo=react)
+![Tailwind](https://img.shields.io/badge/Styled_with-Tailwind_CSS-38bdf8?logo=tailwindcss)
+
 Welcome to my portfolio site! This project showcases my work as a front-end developer with full-stack capabilities, a passion for clean code, and a commitment to inclusive design.
 
-Live site: [https://portfolisa.netlify.app](https://portfolisa.netlify.app)
+🔗 Live Site: [https://portfolisa.netlify.app](https://portfolisa.netlify.app)
 
 ---
 
@@ -38,34 +43,41 @@ client/        # React + TypeScript frontend
 server/        # (Scaffolded for future backend integration)
 ```
 
+---
+
 ## 🚀 Getting Started
 
+```bash
 # Clone the repo
-
 git clone https://github.com/lisaj5472/portfolisa.git
 
 # Install client dependencies
-
 cd client
 npm install
 
 # Start dev server
-
 npm run dev
+```
+
+---
 
 ## 📬 Contact
 
-Built and maintained by Lisa Jorgensen
-📧 lisa.jorgensen.dev@gmail.com
-🌐 https://github.com/lisaj5472
+Built and maintained by **Lisa Jorgensen**  
+📧 [lisa.jorgensen.dev@gmail.com](mailto:lisa.jorgensen.dev@gmail.com)  
+🌐 [GitHub](https://github.com/lisaj5472)
+
+---
 
 ## 🎯 Goals for Future Releases
 
 - Backend route + DB for saving contact form messages
 - Admin dashboard for managing project content
 - API integration for live GitHub repo previews
-- Resume viewer
+- Resume viewer and blog section
+
+---
 
 ## 📄 License
 
-This project is open source under the MIT License.
+This project is open source under the [MIT License](LICENSE)
