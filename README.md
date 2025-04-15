@@ -37,3 +37,35 @@ client/        # React + TypeScript frontend
 
 server/        # (Scaffolded for future backend integration)
 ```
+
+## 🚀 Getting Started
+
+# Clone the repo
+
+git clone https://github.com/lisaj5472/portfolisa.git
+
+# Install client dependencies
+
+cd client
+npm install
+
+# Start dev server
+
+npm run dev
+
+## 📬 Contact
+
+Built and maintained by Lisa Jorgensen
+📧 lisa.jorgensen.dev@gmail.com
+🌐 https://github.com/lisaj5472
+
+## 🎯 Goals for Future Releases
+
+- Backend route + DB for saving contact form messages
+- Admin dashboard for managing project content
+- API integration for live GitHub repo previews
+- Resume viewer
+
+## 📄 License
+
+This project is open source under the MIT License.
