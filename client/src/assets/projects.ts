@@ -3,7 +3,7 @@ export const projects = [
     title: "Eddy Out",
     description: "A full-stack app for planning multi-day river camping trips.",
     stack: ["React", "TypeScript", "PostgreSQL", "Node.js", "Tailwind CSS"],
-    imageUrl: "/public/eddyout.png",
+    imageUrl: "/eddyout.png",
     repoUrl: "https://github.com/lisaj5472/EddyOut.git",
     liveUrl: "https://eddyout.onrender.com/",
     featured: true,
@@ -13,7 +13,7 @@ export const projects = [
     description:
       "This group project is a personalized nutrition app that generates meal plans based on user preferences and dietary restrictions. It features a user-friendly interface, recipe search functionality, and a meal plan generator. This project combined the skills of a team of developers to create a full-stack application using HTML, CSS, Bootstrap, and Javascript.",
     stack: ["React", "TypeScript", "OMDb API"],
-    imageUrl: "/public/digest.png",
+    imageUrl: "/digest.png",
     liveUrl: "https://justinvittitoe.github.io/Digest/",
     repoUrl: "https://github.com/justinvittitoe/Digest.git",
     featured: true,
@@ -40,7 +40,7 @@ export const projects = [
     description:
       "This project is a CSS Snippet Cheat Sheet developed as part of the University of Denver Coding Boot Camp. It serves as a handy reference for commonly used CSS snippets and techniques, facilitating quick access to essential code patterns for web development.",
     stack: ["HTML", "CSS"],
-    imageUrl: "/public/CSSsnippetCheatsheet.png",
+    imageUrl: "/CSSsnippetCheatsheet.png",
     alt: "CSS Snippet Cheatsheet",
     liveUrl: "https://lisaj5472.github.io/CSS-Snippet-Cheatsheet/",
     repoUrl: "https://github.com/lisaj5472/CSS-Snippet-Cheatsheet.git",
