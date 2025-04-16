@@ -9,7 +9,7 @@ export default function Portfolio() {
     <div className="container-default py-12 space-y-12">
       {/* Featured */}
       <section className="space-y-8">
-        <h2 className="text-heading">Featured Projects</h2>
+        <h2>Featured Projects</h2>
         <div className="flex flex-col gap-12">
           {featured.map((project, index) => (
             <PortfolioCard key={index} project={project} />
@@ -19,7 +19,7 @@ export default function Portfolio() {
 
       {/* All Projects */}
       <section className="space-y-6">
-        <h3 className="text-xl font-semibold text-subtle">Other Projects</h3>
+        <h3>Other Projects</h3>
         <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
           {others.map((project, index) => (
             <PortfolioCard key={index} project={project} compact />

@@ -10,9 +10,9 @@ export default function NavTabs() {
             <img
               src="/gold_logo_nobg.png"
               alt="LAJ Logo"
-              className="h-8 w-8 object-contain"
+              className="h-10 w-10 object-contain"
             />
-            <span className="text-lg font-semibold text-white hidden sm:inline">
+            <span className="text-lg font-semibold text-white hidden sm:inline josefin-sans">
               Lisa Jorgensen
             </span>
           </a>
